@@ -1,0 +1,17 @@
+# Temp work dir
+data/
+.idea/
+.vscode/
+.pytest_cache/
+.vsr/
+__pycache__/
+
+# Images
+.png
+.jpg
+.jpeg
+.bmp
+.yuv
+.rgb
+.nv12
+.pyc
