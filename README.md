@@ -2,6 +2,8 @@
 
 This is an image/video super-resolution project.
 
+安卓端代码仓库：https://github.com/2018zhaizhijun/SuperResolution
+
 文档：https://www.yuque.com/docs/share/324bc856-c14f-41da-b52e-9e97de2487b5?# 《需求规格说明书》
 
 文档：https://www.yuque.com/docs/share/ce7cbcfb-8cf9-4fa6-b626-3cacc940894a?# 《规范》
